@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-PHP MVC framework that is heavily inspired by laravel. I built this for to try to get a better understanding of laravel and MVC frameworks.
+PHP MVC framework that is heavily inspired by laravel. I built this to try to get a better understanding of laravel and MVC frameworks.
 
 
 
